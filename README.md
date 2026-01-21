@@ -50,4 +50,4 @@ python3 src/plot_compare_models.py
 
 Model weights are not included in the repository.
 All results can be reproduced by running the provided training and evaluation scripts.
-
+Robustness analysis is based on accuracy degradation and a 50% accuracy failure threshold.
