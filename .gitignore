@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data
+data/
+.cache/
+
+# Model weights
+*.pt
+
+# OS
+.DS_Store

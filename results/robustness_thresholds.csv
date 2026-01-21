@@ -1,0 +1,13 @@
+model,degradation,failure_level (acc < 0.5)
+ResNet-18,gaussian_noise,0.1
+ResNet-18,gaussian_blur,5.0
+ResNet-18,darken,Not reached
+ResNet-18,contrast,Not reached
+ResNet-18,jpeg,10.0
+ResNet-18,motion_blur,5.0
+MobileNet-V2,gaussian_noise,0.1
+MobileNet-V2,gaussian_blur,5.0
+MobileNet-V2,darken,Not reached
+MobileNet-V2,contrast,Not reached
+MobileNet-V2,jpeg,10.0
+MobileNet-V2,motion_blur,7.0
